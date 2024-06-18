@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deven Nabar</h1>
 <h2 align="center">Software Developer</h2>
-<h2><a align ="center" href ="https://www.dnabar.me" color="#f97316">My Portfolio</a></h2>
+<h2 color="#f97316 align ="center" "><a href ="https://www.dnabar.me">My Portfolio</a></h2>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devennabar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@devennabar)  
