@@ -10,11 +10,10 @@
 **Backend:** Node.js, Express.js, Flask  
 **Databases:** MySQL, MongoDB, Firebase, Supabase  
 **DevOps & Cloud:** AWS, Google Cloud, Docker, Azure  
-**AI/ML:** PyTorch, NumPy, Pandas, sci-kit-learn  
+**AI/ML:** PyTorch, NumPy, Pandas, Scikit-learn
+**LLM/GenAI:**  Langchain, Llamaindex  
 
 ### GitHub Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevenNabar&theme=default&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevenNabar&theme=default&hide_border=true&layout=compact)
 
----
-![Profile Visits](https://visitcount.itsvg.in/api?id=DevenNabar&icon=0&color=6)
